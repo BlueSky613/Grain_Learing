@@ -14,7 +14,7 @@ class DropdownWidget<T> extends StatefulWidget {
     required this.value,
     this.header,
     this.unselectedItemColor,
-    this.width = 80,
+    this.width = 90,
   }) : super(key: key);
   final List<T> items;
   final String? header;
