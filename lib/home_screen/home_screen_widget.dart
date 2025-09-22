@@ -52,7 +52,7 @@ class _HomeScreenWidgetState extends State<HomeScreenWidget> {
           "CATÁLOGO DE GRANOS",
           style: TextStyle(
             fontFamily: "Poppins",
-            fontSize: 18,
+            fontSize: 17,
             fontWeight: FontWeight.w700,
             color: Color(0xff3b7d24),
           ),
